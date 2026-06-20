@@ -1,5 +1,5 @@
-# 💫 About Me:
-# 👋 Hi, I'm Eliud (Lude)<br><br>🎓 Telecommunication & Information Engineering Student at DeKUT  <br>💻 Passionate about Networking, Data Analytics, Python, and RF Systems  <br>📊 Currently learning Excel, Power BI, SQL, and Python for Data Insights  <br>🌐 Interested in Network Engineering, Cybersecurity, and Telecommunications  <br>🛠️ Building practical projects and growing my GitHub portfolio step by step
+##💫 About Me:
+## 👋 Hi, I'm Eliud (Lude)<br><br>🎓 Telecommunication & Information Engineering Student at DeKUT  <br>💻 Passionate about Networking, Data Analytics, Python, and RF Systems  <br>📊 Currently learning Excel, Power BI, SQL, and Python for Data Insights  <br>🌐 Interested in Network Engineering, Cybersecurity, and Telecommunications  <br>🛠️ Building practical projects and growing my GitHub portfolio step by step
 
 
 ## 🌐 Socials:
